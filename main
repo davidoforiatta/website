@@ -1,1 +1,33 @@
-following code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SkillStack</title>
+  <link rel="stylesheet" href="style.css"> <!-- Optional: link to your CSS file -->
+</head>
+<body>
+  <h1>Welcome to Skillstack</h1>
+  <p>
+    SkillStack is a sleek, web-based CV builder designed to help users — especially students and early-career professionals — showcase their skills, experiences, and goals in a personalized, interactive format. Built by Dare, a 17-year-old developer studying a T Level in Digital Production, SkillStack reflects both technical ability and creative design thinking.
+  </p>
+  <p>
+    Hello there! 
+    I am David, also known as Dave, a 17 year old currently studying T-Level Digtal Production Design and Development. I have a strong passion in software engineering as well as a interest in data analytics.
+    I have decided to build this website with the assistance of Copilot to showcase my software skills for whom may see this.
+</p>
+    <br>
+
+    
+<p>
+    The prupose of skillstack is for users like myself who are aspriing apprentices to be able to input information about themselves and their interests, which will then generate a sleek, customizable portfolio page.
+</p>
+
+<p> 
+  Please click here to see my portfolio page.
+
+</p>
+  <img src="images/skillstack.png" alt="SkillStack Logo" width="150">
+
+</body>
+</html>
