@@ -1,1 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/style.css" rel="stylesheet">
+
+  <title>SkillStack</title>
+
+  <h1>
+    David Ofori Atta
+  </h1>
+
+
+<p>
+  <img src="images/david.png" alt="SkillStack Logo">
+</p>
+
+<H2> 
+    Age: 17
+    Ethnicity: Black British 
+    Interests: Software and Data analytics
+    Skills: Willing to learn
+
+</H2>
+
+  <h1>Dave – Developer & Digital Creator</h1>
+  <p class="tagline">17-year-old coder | T Level in Digital Production | Lloyds Intern</p>
+
+  <div class="bio">
+    Hi, I'm Dave — a passionate young developer building real-world projects that blend code, creativity, and ambition. SkillStack is my personal showcase, designed to highlight my journey from classroom to internship, and now toward a tech apprenticeship. Explore my work, see what I’ve built, and let’s connect.
+  </div>
+
+  <button class="button" onclick="alert('Thanks for checking out my portfolio!')">Say Hello</button>
+
+</body>
+
+
+</head>
+<body>
+
 
