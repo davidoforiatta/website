@@ -1,1 +1,1 @@
-code of my website main page
+Skillstack, a website made by me  is a personal portfolio web app I’m building to showcase my technical skills, projects, and professional journey. Designed with clean layout and recruiter appeal in mind, it highlights my experience in web development, data visualization, and collaborative work. The app reflects my growth as a developer and serves as a central hub for apprenticeship applications and networking.
